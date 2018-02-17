@@ -48,13 +48,13 @@ die('Erreur : '.$e->getMessage());
 
 
 
-		/* try{
-                include('formulaire.php');
+		 try{
+                include('affiche.php');
 		 }
 		 catch(Exception $e)
          {
          die('Erreur : '.$e->getMessage());
-         }*/
+         }
 		?>
 
 </body>
